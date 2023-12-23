@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Random Joke Generator</title>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script>
+async function getJoke() {
+  const response = await axios.get('https://official-joke-api.appspot.com/random_joke');
+  const joke = response.data.setup + '\n' + response.data.punchline;
+  document.getElementById('joke').textContent = joke;
+}
+
+getJoke(); // Get a joke initially
+</script>
+</head>
+<body>
+<h1>Random Joke</h1>
+<div id="joke"></div>
+<button onclick="getJoke()">Get Another Joke</button>
+</body>
+</html>
