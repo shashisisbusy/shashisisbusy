@@ -9,6 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashisisbusy" alt="shashisisbusy" /></a> </p>
 
 - 🌱 I’m currently learning **JAVA, Html , Css and Javascript.**
+[![Random Joke](https://github.com/<shashisisbusy>/<shashisisbusy>/blob/main/index.html?raw=true)](https://github.com/<shashisisbusy>/<shashisisbusy>/blob/main/index.html)
 
 
 <h3 align="left">Languages and Tools:</h3>
