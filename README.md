@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JAVA, Html , Css and Javascript.**
 
-- ⚡ Fun fact **[![Random Joke](https://github.com/<your-username>/<your-repo>/blob/main/index.html?raw=true)](https://github.com/<your-username>/<your-repo>/blob/main/index.html)
+- ⚡  **[![Random Joke](https://github.com/<your-username>/<your-repo>/blob/main/index.html?raw=true)](https://github.com/<shashisisbusy>/<shashisisbusy>/blob/main/index.html)
 **
 
 <h3 align="left">Languages and Tools:</h3>
