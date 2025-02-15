@@ -9,8 +9,3 @@
 <!-- Joke -->
 <hr>
 <p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></p>
-# 🎮 My Game
-
-Click below to play the game directly inside a GitHub Issue:
-
-➡️ [Play the Game](https://github.com/yourusername/yourrepo/issues/1)
